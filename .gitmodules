@@ -1,0 +1,3 @@
+[submodule "modules/helm-aliyun-ddns"]
+	path = modules/helm-aliyun-ddns
+	url = https://github.com/Firxiao/helm-aliyun-ddns.git
